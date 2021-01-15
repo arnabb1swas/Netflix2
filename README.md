@@ -1,8 +1,8 @@
 Hello guys The Following Reposotry is a Clone of Netflix Front-End.
-If You wanna check out the website, here's the link: https://netflix2-78c96.web.app/
+If You wanna check out the website, #here's the link: https://netflix2-78c96.web.app/
 
 If you want to download the files...
-*I'll Recommend you to only download the src folder rest of the files are for my device*
+#I'll Recommend you to only download the src folder rest of the files are for my device.
 
 
 # Getting Started with Create React App
